@@ -12,6 +12,12 @@ Installation
 ```
 git clone https://github.com/Reglament989/CryptoFarm
 ```
+```
+cd CryptoFarm
+```
+```
+pip install -r requirements.txt
+```
 
 > You need python on your system
 
