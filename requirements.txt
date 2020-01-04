@@ -1,0 +1,4 @@
+pytelegrambotapi
+telethon
+selenium
+virustotal-api
