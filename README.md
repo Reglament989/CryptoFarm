@@ -31,6 +31,8 @@ Go to https://my.telegram.org
 * Note: for first start __YOU NEED CONFIRM YOURS ACCOUNT__
 * Check for work!
 
+> Don't forget to get a token from BotFather for status_bot.py and put it in [config.py](https://github.com/Reglament989/CryptoFarm/blob/master/config.py)
+
 Thanks
 -----------
 This script was written by
