@@ -24,6 +24,8 @@ pip install -r requirements.txt
 Go to https://my.telegram.org
 * "Create your app"
 * Replace the values in the configuration file [config.py](https://github.com/Reglament989/CryptoFarm/blob/master/config.py)
+* Register virus total and get the api key, past for all bot except status_bot.py
+* Add your nickname to status_bot.py
 * A [bot](https://t.me/Litecoin_click_bot?start=7Gin) which actually will be your farm / Also you can find him of telegram [@Litecoin_click_bot]()
 * Run `python 1_bot.py/2_bot.py/3_bot.py/status.py`
 * Note: for first start __YOU NEED CONFIRM YOURS ACCOUNT__
