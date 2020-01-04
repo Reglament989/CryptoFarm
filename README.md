@@ -13,7 +13,7 @@ Installation
 git clone https://github.com/Reglament989/CryptoFarm
 ```
 ```
-cd CryptoFarm
+cd CryptoFarm/
 ```
 ```
 pip install -r requirements.txt
