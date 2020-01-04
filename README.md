@@ -15,9 +15,9 @@ git clone https://github.com/Reglament989/CryptoFarm
 
 > You need python on your system
 
-Go to https://my.telegram.org - 
+Go to https://my.telegram.org
 * "Create your app"
-* Replace the values in the configuration file [config.py]
+* Replace the values in the configuration file [config.py](https://github.com/Reglament989/CyptoFarm#config.py
 * Run `python 1_bot.py/2_bot.py/3_bot.py/status.py`
 * Note: for first start __YOU NEED CONFIRM YOURS ACCOUNT__
 * Check for work!
