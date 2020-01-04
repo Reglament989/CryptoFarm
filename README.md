@@ -2,7 +2,7 @@ Telegram farming Litecoin
 =============
 These scripts written in **python** are designed to help you with **advertising** your public sites bots and other things.
 
-1. You will not be able to earn on them as the amounts you will receive are __**very small**__ for withdrawal from a crypto wallet.
+1. You will not be able to earn on them as the amounts you will receive are __**very small**__ for withdraw from a crypto wallet.
 1. But for advertising your own projects, it is quite suitable.
 1. Also thanks to the standard telegram bot you will be able to **track** the balance of your workers.
 
